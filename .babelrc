@@ -1,0 +1,9 @@
+{
+  "presets": [
+    "env",
+    "react"
+  ],
+  "plugins": [
+    ["relay", { "compat": true, "schema": "./node_modules/@artsy/reaction-force/data/schema.graphql" }]
+  ]
+}

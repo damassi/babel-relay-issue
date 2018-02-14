@@ -1,0 +1,2 @@
+// import './goodQuery'
+import './badQuery'
